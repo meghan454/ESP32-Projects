@@ -53,6 +53,8 @@ The buzzer activates when either condition is exceeded.
 
 ## Project Photo
 
+## Project Photo
+
 ![Smart Environment Monitoring System](./smart-environment-monitor.jpeg)
 
 ## Source Code
