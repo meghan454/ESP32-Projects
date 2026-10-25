@@ -6,6 +6,19 @@ The Smart Environment Monitoring System is an ESP32-based project that monitors 
 
 This project demonstrates sensor interfacing, real-time monitoring, display integration, and alert generation in an embedded system.
 
+## Project Demonstration
+
+Watch the ESP32-based Smart Environment Monitoring System in action on LinkedIn.
+
+**Video Demonstration:** [Watch the Project on LinkedIn](https://lnkd.in/p/gB4Ni_Sh)
+
+## Key Features
+
+- Real-time temperature and humidity monitoring using the DHT22 sensor
+- Live readings displayed on a 128 × 64 OLED screen
+- Buzzer alert when temperature exceeds 30°C or humidity exceeds 70%
+- ESP32-based sensor interfacing and threshold monitoring
+
 ## Features
 
 - Real-time temperature monitoring
